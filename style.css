@@ -1,0 +1,11 @@
+#fosterform{
+    display: inline-grid; 
+}
+
+.foster{
+    border: black solid
+}
+
+ul {
+    list-style-type: none;
+}
